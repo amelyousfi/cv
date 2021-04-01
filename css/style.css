@@ -1,0 +1,40 @@
+.lignecon {
+  margin-top: 0;
+}
+
+.colorg {
+  background-color: #e0e0e0;
+}
+
+.colorbl {
+  background-color: #90caf9;
+}
+
+.plr {
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+#lin {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+}
+
+#lip {
+  border-top: 1px solid #e0e0e0;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+#soul {
+  border-bottom: solid 1px black;
+}
+
+#soul1 {
+  border-bottom: solid 1px black;
+}
+
+.pt {
+  padding-top: 30px;
+}
+
+/*# sourceMappingURL=style.css.map */
